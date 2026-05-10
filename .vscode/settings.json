@@ -9,5 +9,10 @@
         120
     ],
     "haskell.checkProject": false,
-    "haskell.formattingProvider": "fourmolu"
+    "haskell.formattingProvider": "fourmolu",
+    "C_Cpp.clang_format_fallbackStyle": "WebKit",
+    "C_Cpp.default.cppStandard": "c++26",
+    "C_Cpp.default.includePath": [
+        "C:\\boost\\include\\boost-1_91"
+    ]
 }
