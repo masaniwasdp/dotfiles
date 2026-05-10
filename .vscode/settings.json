@@ -1,0 +1,13 @@
+{
+    "d.dubCompiler": "dmd.EXE",
+    "d.dubPath": "C:\\D\\dmd2\\windows\\bin64\\dub.exe",
+    "d.servedPath": "C:\\Users\\masan\\AppData\\Roaming\\code-d\\bin\\serve-d.exe",
+    "d.stdlibPath": "auto",
+    "editor.formatOnSave": true,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "haskell.checkProject": false,
+    "haskell.formattingProvider": "fourmolu"
+}
