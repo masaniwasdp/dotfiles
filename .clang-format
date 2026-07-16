@@ -1,2 +1,3 @@
 BasedOnStyle: WebKit
+NamespaceIndentation: All
 PointerAlignment: Right

@@ -1,5 +1,9 @@
 {
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
     "C_Cpp.clang_format_fallbackStyle": "WebKit",
+    "C_Cpp.default.compilerPath": "C:\\Program Files\\LLVM\\bin\\clang++.exe",
     "C_Cpp.default.cppStandard": "c++26",
     "C_Cpp.default.cStandard": "c23",
     "C_Cpp.default.includePath": [
@@ -17,5 +21,13 @@
     ],
     "haskell.checkProject": false,
     "haskell.formattingProvider": "fourmolu",
-    "workbench.colorTheme": "Minimal Mist Alternative"
+    "haskell.plugin.explicit-fields.inlayHintsOn": false,
+    "haskell.plugin.importLens.inlayHintsOn": false,
+    "rust-analyzer.inlayHints.parameterHints.enable": false,
+    "rust-analyzer.inlayHints.typeHints.enable": false,
+    "workbench.colorTheme": "Minimal Mist Alternative",
+    "zig.zls.enabled": "on",
+    "zig.zls.inlayHintsShowParameterName": false,
+    "zig.zls.inlayHintsShowStructLiteralFieldType": false,
+    "zig.zls.inlayHintsShowVariableTypeHints": false
 }
