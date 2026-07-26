@@ -2,6 +2,9 @@
     "[python]": {
         "editor.defaultFormatter": "ms-python.black-formatter"
     },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
     "C_Cpp.clang_format_fallbackStyle": "WebKit",
     "C_Cpp.default.compilerPath": "C:\\Program Files\\LLVM\\bin\\clang++.exe",
     "C_Cpp.default.cppStandard": "c++26",
@@ -23,6 +26,7 @@
     "haskell.formattingProvider": "fourmolu",
     "haskell.plugin.explicit-fields.inlayHintsOn": false,
     "haskell.plugin.importLens.inlayHintsOn": false,
+    "python.analysis.typeCheckingMode": "strict",
     "rust-analyzer.inlayHints.parameterHints.enable": false,
     "rust-analyzer.inlayHints.typeHints.enable": false,
     "workbench.colorTheme": "Minimal Mist Alternative",
