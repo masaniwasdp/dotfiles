@@ -1,4 +1,7 @@
 {
+    "[d]": {
+        "editor.snippetSuggestions": "none"
+    },
     "[python]": {
         "editor.defaultFormatter": "ms-python.black-formatter"
     },
@@ -22,6 +25,7 @@
         80,
         120
     ],
+    "files.trimTrailingWhitespace": true,
     "haskell.checkProject": false,
     "haskell.formattingProvider": "fourmolu",
     "haskell.plugin.explicit-fields.inlayHintsOn": false,
